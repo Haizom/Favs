@@ -1,0 +1,2 @@
+# Favs
+Simple react app
