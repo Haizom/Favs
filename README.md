@@ -1,2 +1,2 @@
 # Favs
-Simple react app
+Simple react app, the project is in the master branch.
